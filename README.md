@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prentice Lathon
-- 👀 I’m interested in becoming a program developer 
-- 🌱 I’m currently learning python for backend operations along with JavaScript development.
-- 💞️ I’m looking to collaborate on backend and infrastructure dev projects to be able to develop custom interactions via API and Databases.
-- 📫 X: https://x.com/websandstuff 
-- ⚡ I think coding is an art because every input and output can be interpreted differently, creating a verse of access, control, and interaction.
+- 👀 I’m interested in becoming a web developer.
+- 🌱 Currently learning python for backend operations along with JavaScript for interactive development.
+- 💞️ I collaborate on Frontend and API dev projects for entertainment and sales purposes.
+- 📫 X: https://x.com/websandstuff
